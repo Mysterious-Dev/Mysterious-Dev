@@ -1,1 +1,1 @@
-#### Le développeur le plus mégalo de l'Est 👋
+#### Le développeur le plus mégalo de l'Est
