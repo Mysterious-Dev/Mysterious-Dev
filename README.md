@@ -10,4 +10,5 @@
 
 
 Réseaux sociaux<br>
-<br>[![Discord](https://img.shields.io/discord/700061920170082314.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.lesmoddeursfrancais.fr/) 
+<br>![Discord](https://img.shields.io/discord/700061920170082314?label=Discord&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/mysterious__dev?label=Follow%20me&style=for-the-badge)
