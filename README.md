@@ -1,11 +1,19 @@
 ## Languages
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32px" alt="Kotlin Logo" />](https://kotlinlang.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32px" alt="Java Logo" />](https://www.java.com/)
+### Web
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" alt="HTML Logo" />](https://html.spec.whatwg.org/multipage/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" alt="CSS Logo" />](https://www.w3.org/TR/CSS/#css)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32px" alt="Csharp Logo" />](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" alt="Javascript Logo" />](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+### Mobile
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32px" alt="Kotlin Logo" />](https://kotlinlang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32px" alt="Java Logo" />](https://www.java.com/)
+
+### Other
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32px" alt="Csharp Logo" />](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
 
 ## Tools
 
