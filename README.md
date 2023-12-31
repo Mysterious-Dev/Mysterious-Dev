@@ -15,6 +15,7 @@
 ### Other
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32px" alt="Csharp Logo" />](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px" alt="C++ Logo" />](https://isocpp.org/)
 
 ## Tools
 
